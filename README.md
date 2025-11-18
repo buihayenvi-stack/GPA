@@ -12,7 +12,6 @@ Thực hiện điều này cho mỗi khóa học, sau đó thêm các kết qu�
 Chia tổng kết quả cho tổng số giờ tín dụng.
 Bạn được cung cấp mẫu thông tin khóa học và GPA sau đây:
 
-Output
 Student: Sophia Johnson
 
 Course          Grade   Credit Hours	
